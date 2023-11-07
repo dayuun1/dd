@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\Sana01\\LinearExpressions1\\LinearExpressions1.csproj": {}
+    "C:\\Users\\HP\\source\\repos\\LinearExpressions2\\LinearExpressions2\\LinearExpressions2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\Sana01\\LinearExpressions1\\LinearExpressions1.csproj": {
+    "C:\\Users\\HP\\source\\repos\\LinearExpressions2\\LinearExpressions2\\LinearExpressions2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Sana01\\LinearExpressions1\\LinearExpressions1.csproj",
-        "projectName": "LinearExpressions1",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\Sana01\\LinearExpressions1\\LinearExpressions1.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\LinearExpressions2\\LinearExpressions2\\LinearExpressions2.csproj",
+        "projectName": "LinearExpressions2",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\LinearExpressions2\\LinearExpressions2\\LinearExpressions2.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\Sana01\\LinearExpressions1\\obj\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\LinearExpressions2\\LinearExpressions2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
